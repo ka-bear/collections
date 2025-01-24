@@ -10,3 +10,5 @@
 
 - Yue Heng
 - Zerui (again)
+- Simu added the weights bias layer classes implementation 
+
