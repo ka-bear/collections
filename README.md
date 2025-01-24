@@ -1,5 +1,10 @@
 # collections
 
+Please go to IOAI 2025 folder to see the code that is updated to the 2025 syllabus!
+
+
+2024 stuff below
+
 ## NLP:
 1. Text classification
 2. Translation
