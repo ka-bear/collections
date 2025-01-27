@@ -2,7 +2,7 @@
 
 - Fundamentals of Convolutional Layers 
 - Pooling Techniques (Max, Average) 
-- Basic Image Classication 
+- Basic Image Classification 
 - Object Detection Basics (YOLO, SSD)
 - Image Segmentation Basics (U-Net)
 - Transfer Learning for Image Classication (e.g., ResNet, MobileNet)
