@@ -1,17 +1,22 @@
 # Syllabus
 
+Done:
 - Fundamentals of Convolutional Layers 
 - Pooling Techniques (Max, Average) 
 - Basic Image Classification 
 - Object Detection Basics (YOLO, SSD)
+- Introduction to GANs (Generating Images)
+- Image Augmentation Techniques
+
+In progress:
+- CLIP and Multimodal Learning
+- Introduction to Self-Supervised Learning for Vision
+
+Not started:
 - Image Segmentation Basics (U-Net)
 - Transfer Learning for Image Classication (e.g., ResNet, MobileNet)
-- Image Augmentation Techniques
 - Feature Extraction Using Pre-Trained Models
-- Introduction to GANs (Generating Images)
-- Introduction to Self-Supervised Learning for Vision
 - Vision Transformers (ViT) Basics
-- CLIP and Multimodal Learning
 - Generative Models such as Stable Diffusion, DALL.E
 
 # People
