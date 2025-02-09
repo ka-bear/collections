@@ -1,0 +1,14 @@
+you'll need to download some models here: 
+
+fast face detector yolov8n-face.pt: https://drive.google.com/file/d/1qcr9DbgsX3ryrz2uU8w4Xm3cOrRywXqb/view 
+note that you'll be changing the - in the filename to a _ then putting in this folder. 
+
+i think the below can auto-download but here: 
+fast person detector yolov8n.pt: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.pt 
+
+
+
+then this is not technically a yolo model but i'm just putting it in this folder for convenience (it's MiVOLO): 
+mivolo: https://drive.google.com/file/d/11i8pKctxz3wVkDBlWKvhYIh7kpVFXSZ4/view 
+model_imdb_cross_person_4.22_99.46.pth.tar
+
