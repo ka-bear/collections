@@ -4,7 +4,7 @@ Done:
 - Fundamentals of Convolutional Layers 
 - Pooling Techniques (Max, Average) 
 - Basic Image Classification 
-- Object Detection Basics (YOLO, SSD)
+- Object Detection Basics (YOLO, SSD) [ + basic object tracking !!]
 - Introduction to GANs (Generating Images)
 - Image Augmentation Techniques
 - Vision Transformers (ViT) Basics
@@ -24,3 +24,4 @@ Not started:
 - Kieran
 - Shicheng
 - Zerui
+              
