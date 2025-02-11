@@ -1,6 +1,7 @@
 # Syllabus
 
-Done:
+ALL DONE!! 
+
 - Fundamentals of Convolutional Layers 
 - Pooling Techniques (Max, Average) 
 - Basic Image Classification 
@@ -12,11 +13,7 @@ Done:
 - Generative Models such as Stable Diffusion, DALL.E
 - Feature Extraction Using Pre-Trained Models
 - Introduction to Self-Supervised Learning for Vision
-
-In progress:
 - CLIP and Multimodal Learning
-
-Not started:
 - Transfer Learning for Image Classication (e.g., ResNet, MobileNet)
 
 # People
