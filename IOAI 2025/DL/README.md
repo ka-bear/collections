@@ -1,3 +1,4 @@
+ALL DONE!!
 # Syllabus
 
 - Multi-Layer Perceptrons (MLP) 
